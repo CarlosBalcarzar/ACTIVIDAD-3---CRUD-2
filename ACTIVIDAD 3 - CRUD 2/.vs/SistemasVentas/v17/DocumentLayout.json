@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14C85DFB-340F-4D8D-B5D7-EF72F7226BC9}|SistemasVentas.VISTA\\SistemasVentas.VISTA.csproj|c:\\users\\carlo\\onedrive\\escritorio\\mi vida\\sistemaventasncapas-main\\sistemasventas\\sistemasventas.vista\\clientevistas\\clienteeditarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C85DFB-340F-4D8D-B5D7-EF72F7226BC9}|SistemasVentas.VISTA\\SistemasVentas.VISTA.csproj|solutionrelative:sistemasventas.vista\\clientevistas\\clienteeditarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C85DFB-340F-4D8D-B5D7-EF72F7226BC9}|SistemasVentas.VISTA\\SistemasVentas.VISTA.csproj|c:\\users\\carlo\\onedrive\\escritorio\\mi vida\\sistemaventasncapas-main\\sistemasventas\\sistemasventas.vista\\clientevistas\\clienteeditarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14C85DFB-340F-4D8D-B5D7-EF72F7226BC9}|SistemasVentas.VISTA\\SistemasVentas.VISTA.csproj|solutionrelative:sistemasventas.vista\\clientevistas\\clienteeditarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33185329-5FDC-48D0-8C2E-D672E28DB8EC}|SistemasVentas.DAL\\SistemasVentas.DAL.csproj|C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\sistemasventas.dal\\clientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33185329-5FDC-48D0-8C2E-D672E28DB8EC}|SistemasVentas.DAL\\SistemasVentas.DAL.csproj|solutionrelative:sistemasventas.dal\\clientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C85DFB-340F-4D8D-B5D7-EF72F7226BC9}|SistemasVentas.VISTA\\SistemasVentas.VISTA.csproj|C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\sistemasventas.vista\\clientevistas\\clientelistarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C85DFB-340F-4D8D-B5D7-EF72F7226BC9}|SistemasVentas.VISTA\\SistemasVentas.VISTA.csproj|solutionrelative:sistemasventas.vista\\clientevistas\\clientelistarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D34690-4690-4073-9521-78D0CB027B69}|SistemasVentas.BSS\\SistemasVentas.BSS.csproj|c:\\users\\carlo\\onedrive\\escritorio\\mi vida\\sistemaventasncapas-main\\sistemasventas\\sistemasventas.bss\\clientebss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D34690-4690-4073-9521-78D0CB027B69}|SistemasVentas.BSS\\SistemasVentas.BSS.csproj|solutionrelative:sistemasventas.bss\\clientebss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33185329-5FDC-48D0-8C2E-D672E28DB8EC}|SistemasVentas.DAL\\SistemasVentas.DAL.csproj|C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\sistemasventas.dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33185329-5FDC-48D0-8C2E-D672E28DB8EC}|SistemasVentas.DAL\\SistemasVentas.DAL.csproj|solutionrelative:sistemasventas.dal\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212C809C-B30A-44B2-B1B6-3B54806AA38E}|SistemasVentas.Modelos\\SistemasVentas.Modelos.csproj|C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\sistemasventas.modelos\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212C809C-B30A-44B2-B1B6-3B54806AA38E}|SistemasVentas.Modelos\\SistemasVentas.Modelos.csproj|solutionrelative:sistemasventas.modelos\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C85DFB-340F-4D8D-B5D7-EF72F7226BC9}|SistemasVentas.VISTA\\SistemasVentas.VISTA.csproj|c:\\users\\carlo\\onedrive\\escritorio\\mi vida\\sistemaventasncapas-main\\sistemasventas\\sistemasventas.vista\\clientevistas\\clienteeliminarvistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C85DFB-340F-4D8D-B5D7-EF72F7226BC9}|SistemasVentas.VISTA\\SistemasVentas.VISTA.csproj|solutionrelative:sistemasventas.vista\\clientevistas\\clienteeliminarvistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C85DFB-340F-4D8D-B5D7-EF72F7226BC9}|SistemasVentas.VISTA\\SistemasVentas.VISTA.csproj|c:\\users\\carlo\\onedrive\\escritorio\\mi vida\\sistemaventasncapas-main\\sistemasventas\\sistemasventas.vista\\clientevistas\\clienteeliminarvistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14C85DFB-340F-4D8D-B5D7-EF72F7226BC9}|SistemasVentas.VISTA\\SistemasVentas.VISTA.csproj|solutionrelative:sistemasventas.vista\\clientevistas\\clienteeliminarvistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C85DFB-340F-4D8D-B5D7-EF72F7226BC9}|SistemasVentas.VISTA\\SistemasVentas.VISTA.csproj|C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\sistemasventas.vista\\clientevistas\\clientelistarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14C85DFB-340F-4D8D-B5D7-EF72F7226BC9}|SistemasVentas.VISTA\\SistemasVentas.VISTA.csproj|solutionrelative:sistemasventas.vista\\clientevistas\\clientelistarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C85DFB-340F-4D8D-B5D7-EF72F7226BC9}|SistemasVentas.VISTA\\SistemasVentas.VISTA.csproj|C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\sistemasventas.vista\\clientevistas\\clienteinsertarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C85DFB-340F-4D8D-B5D7-EF72F7226BC9}|SistemasVentas.VISTA\\SistemasVentas.VISTA.csproj|solutionrelative:sistemasventas.vista\\clientevistas\\clienteinsertarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C85DFB-340F-4D8D-B5D7-EF72F7226BC9}|SistemasVentas.VISTA\\SistemasVentas.VISTA.csproj|C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\sistemasventas.vista\\clientevistas\\clienteinsertarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14C85DFB-340F-4D8D-B5D7-EF72F7226BC9}|SistemasVentas.VISTA\\SistemasVentas.VISTA.csproj|solutionrelative:sistemasventas.vista\\clientevistas\\clienteinsertarvista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C85DFB-340F-4D8D-B5D7-EF72F7226BC9}|SistemasVentas.VISTA\\SistemasVentas.VISTA.csproj|C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\sistemasventas.vista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C85DFB-340F-4D8D-B5D7-EF72F7226BC9}|SistemasVentas.VISTA\\SistemasVentas.VISTA.csproj|solutionrelative:sistemasventas.vista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteListarVista.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\SistemasVentas.VISTA\\ClienteVistas\\ClienteListarVista.cs",
+              "RelativeDocumentMoniker": "SistemasVentas.VISTA\\ClienteVistas\\ClienteListarVista.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\SistemasVentas.VISTA\\ClienteVistas\\ClienteListarVista.cs",
+              "RelativeToolTip": "SistemasVentas.VISTA\\ClienteVistas\\ClienteListarVista.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T14:07:08.025Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "conexion.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\SistemasVentas.DAL\\conexion.cs",
+              "RelativeDocumentMoniker": "SistemasVentas.DAL\\conexion.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\SistemasVentas.DAL\\conexion.cs",
+              "RelativeToolTip": "SistemasVentas.DAL\\conexion.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAmwCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T12:14:39.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteBss.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\SistemasVentas.BSS\\ClienteBss.cs",
+              "RelativeDocumentMoniker": "SistemasVentas.BSS\\ClienteBss.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\SistemasVentas.BSS\\ClienteBss.cs",
+              "RelativeToolTip": "SistemasVentas.BSS\\ClienteBss.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA6wCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T19:37:47.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteDal.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\SistemasVentas.DAL\\ClienteDal.cs",
+              "RelativeDocumentMoniker": "SistemasVentas.DAL\\ClienteDal.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\SistemasVentas.DAL\\ClienteDal.cs",
+              "RelativeToolTip": "SistemasVentas.DAL\\ClienteDal.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T12:13:20.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CLienteEliminarVistas.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\SistemasVentas.VISTA\\ClienteVistas\\CLienteEliminarVistas.cs",
+              "RelativeDocumentMoniker": "SistemasVentas.VISTA\\ClienteVistas\\CLienteEliminarVistas.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\SistemasVentas.VISTA\\ClienteVistas\\CLienteEliminarVistas.cs",
+              "RelativeToolTip": "SistemasVentas.VISTA\\ClienteVistas\\CLienteEliminarVistas.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwC0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:20:23.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteEditarVista.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\SistemasVentas.VISTA\\ClienteVistas\\ClienteEditarVista.cs",
+              "RelativeDocumentMoniker": "SistemasVentas.VISTA\\ClienteVistas\\ClienteEditarVista.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\SistemasVentas.VISTA\\ClienteVistas\\ClienteEditarVista.cs [Design]",
+              "RelativeToolTip": "SistemasVentas.VISTA\\ClienteVistas\\ClienteEditarVista.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:03:54.016Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteEditarVista.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\SistemasVentas.VISTA\\ClienteVistas\\ClienteEditarVista.cs",
+              "RelativeDocumentMoniker": "SistemasVentas.VISTA\\ClienteVistas\\ClienteEditarVista.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\SistemasVentas.VISTA\\ClienteVistas\\ClienteEditarVista.cs",
+              "RelativeToolTip": "SistemasVentas.VISTA\\ClienteVistas\\ClienteEditarVista.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAmwCsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:01:36.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClienteListarVista.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\SistemasVentas.VISTA\\ClienteVistas\\ClienteListarVista.cs",
+              "RelativeDocumentMoniker": "SistemasVentas.VISTA\\ClienteVistas\\ClienteListarVista.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\SistemasVentas.VISTA\\ClienteVistas\\ClienteListarVista.cs [Design]",
+              "RelativeToolTip": "SistemasVentas.VISTA\\ClienteVistas\\ClienteListarVista.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T14:06:45.901Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\SistemasVentas.Modelos\\Clientes.cs",
+              "RelativeDocumentMoniker": "SistemasVentas.Modelos\\Clientes.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\SistemasVentas.Modelos\\Clientes.cs",
+              "RelativeToolTip": "SistemasVentas.Modelos\\Clientes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T13:57:11.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClienteInsertarVista.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\SistemasVentas.VISTA\\ClienteVistas\\ClienteInsertarVista.cs",
+              "RelativeDocumentMoniker": "SistemasVentas.VISTA\\ClienteVistas\\ClienteInsertarVista.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\SistemasVentas.VISTA\\ClienteVistas\\ClienteInsertarVista.cs",
+              "RelativeToolTip": "SistemasVentas.VISTA\\ClienteVistas\\ClienteInsertarVista.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwBsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T12:30:23.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CLienteEliminarVistas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\SistemasVentas.VISTA\\ClienteVistas\\CLienteEliminarVistas.cs",
+              "RelativeDocumentMoniker": "SistemasVentas.VISTA\\ClienteVistas\\CLienteEliminarVistas.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\SistemasVentas.VISTA\\ClienteVistas\\CLienteEliminarVistas.cs [Design]",
+              "RelativeToolTip": "SistemasVentas.VISTA\\ClienteVistas\\CLienteEliminarVistas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:17:49.648Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClienteInsertarVista.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\SistemasVentas.VISTA\\ClienteVistas\\ClienteInsertarVista.cs",
+              "RelativeDocumentMoniker": "SistemasVentas.VISTA\\ClienteVistas\\ClienteInsertarVista.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\SistemasVentas.VISTA\\ClienteVistas\\ClienteInsertarVista.cs [Design]",
+              "RelativeToolTip": "SistemasVentas.VISTA\\ClienteVistas\\ClienteInsertarVista.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T12:29:50.813Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\SistemasVentas.VISTA\\Program.cs",
+              "RelativeDocumentMoniker": "SistemasVentas.VISTA\\Program.cs",
+              "ToolTip": "C:\\Users\\carlo\\OneDrive\\Escritorio\\mi vida\\sistemaventasncapas-main\\SistemasVentas\\SistemasVentas.VISTA\\Program.cs",
+              "RelativeToolTip": "SistemasVentas.VISTA\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T12:24:30.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
